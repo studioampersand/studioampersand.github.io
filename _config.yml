@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Studio Ampersand Inc.
-  location: 119, Baeul 1-ro, Yuseong-gu, Daejeon, Republic of Korea
-#  social: Around the Web
-#  credits: Credits
+  location: Locataion
+  social: Around the Web
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Daejeon, Republic of Korea
 
 # Credits content
-credits: 'We make this page with "https://github.com/jeromelachaud/freelancer-theme"'
+# credits: 'We make this page with "https://github.com/jeromelachaud/freelancer-theme"'
 
 # Build settings
 markdown: kramdown
