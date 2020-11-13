@@ -31,9 +31,15 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.category %}
-                                    <li>Service:
+                                {% if post.google %}
+                                    <li>Google Play:
                                         <strong><a href={{post.google}}>{{ post.category }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.ios %}
+                                    <li>App store:
+                                        <strong><a href={{post.ios}}>{{ post.category }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
