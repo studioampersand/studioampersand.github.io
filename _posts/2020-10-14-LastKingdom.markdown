@@ -6,5 +6,6 @@ img: lastkingdom.png
 alt: image-alt
 project-date: Oct 2020
 category: Android/iOS
+url: https://play.google.com/store/apps/details?id=com.studioand.lastresistance
 description: Defense the last kingdom.
 ---
