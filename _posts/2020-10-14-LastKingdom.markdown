@@ -7,5 +7,6 @@ alt: image-alt
 project-date: Oct 2020
 category: Android/iOS
 google: https://play.google.com/store/apps/details?id=com.studioand.lastresistance
+iOS: https://apps.apple.com/us/app/last-kingdom-defense/id1538320172
 description: Defense the last kingdom.
 ---
