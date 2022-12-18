@@ -22,3 +22,4 @@ aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 opera.com, pub6584435113344, DIRECT, 55a0c5fd61378de3
+applovin.com, 4fb0f4ce6fdd357e72278e04cfc6e4f6, DIRECT
