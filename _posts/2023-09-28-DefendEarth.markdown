@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2023-09-28
-img: DefendEarth_ic_512.png
+img: DefendEarth_ic_512.jpg
 alt: image-alt
 project-date: Nov 2023
 category: Android/iOS
